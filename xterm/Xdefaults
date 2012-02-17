@@ -1,0 +1,36 @@
+!-- Viridian Color Scheme
+!-- https://github.com/wokka/Viridian-color-scheme.
+
+xterm*foreground:   #71D289
+xterm*background:   #004A41
+
+! Blue Cursor
+xterm*cursorColor:  #00EFEF
+
+! Red Cursor
+!xterm*cursorColor:  #F70000
+
+! Black + Dark Grey
+xterm*color0:       #242424
+xterm*color8:       #5A5A5A
+! Red +  Bright Red
+xterm*color1:       #BF4040
+xterm*color9:       #F75353
+! Green + Bright Green
+xterm*color2:       #00D700
+xterm*color10:      #00FF00
+! Yellow + Bright Yellow
+xterm*color3:       #FDAE5A
+xterm*color11:      #E4E300
+! Blue + Bright Blue
+xterm*color4:       #00AEFF
+xterm*color12:      #0088FF
+! Magenta + Bright Magenta
+xterm*color5:       #918EE4
+xterm*color13:      #F269E4
+! Cyan + Bright Cyan
+xterm*color6:       #00E0F2
+xterm*color14:      #7DDCDB
+! Light Grey + White
+xterm*color7:       #909090
+xterm*color15:      #FFFFFF
