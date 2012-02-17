@@ -3,10 +3,10 @@
 
 DESCRIPTION
 
-Viridian is an "chalkboard" green background colorscheme for text editors and
-terminals.  It aims to reduce eyestrain while maintaining high readability.
-It is the evolution and extension of the Vim color scheme tabula.vim, which
-itself is based on an earlier scheme called marklar.vim. 
+Viridian is an ergonomic "chalkboard" green background colorscheme for text
+editors and terminals.  It aims to reduce eyestrain while maintaining high
+readability. It is the evolution and extension of the Vim color scheme
+tabula.vim, which itself is based on an earlier scheme called marklar.vim. 
 
 DESIGN
 
